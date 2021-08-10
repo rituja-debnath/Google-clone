@@ -83,6 +83,7 @@ li a:hover{
 }
 .above{
     margin-top: 215px;
+    height: 0.5px;
 }
 .bottom{
     list-style-type: none;
@@ -96,3 +97,9 @@ li a:hover{
 .languages{
     text-decoration: none;
 }
+.footer{
+    background-color: #f5f5ef;
+    height: 115px;
+}
+    
+    
